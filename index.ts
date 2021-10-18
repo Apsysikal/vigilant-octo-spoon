@@ -1,4 +1,4 @@
-export interface Root {
+export interface Project {
     canton: string
     zip: string
     number: number
